@@ -17,7 +17,7 @@ This is not a clinical diagnosis, legal conclusion, or finding of a single cause
 **Briana** was Ryan's therapist during the period covered by the recovered messages.
 
 **Charlie** was Ryan's father. Ryan's mother is referenced where the record concerns parental support, the vehicle purchase, or post-death device access.
-hooking
+
 **Nienke** was a Dutch woman Ryan met through dance in Pittsburgh. She became Ryan's unusually close friend and ambiguous romantic focus in 2024.
 
 **Maarten** was Nienke's boyfriend/partner during the relevant period. He visited Pittsburgh and spent time with both Nienke and Ryan.
