@@ -2,7 +2,7 @@
 
 ## Scope
 
-This document synthesizes the reconstructed record of Ryan, the subject of this file, across his interpersonal, therapeutic, family, medication, digital, and suicide timeline from 2023 through February 2025. The record was reconstructed by Garrett, Ryan's cousin, from prior case-file/addendum analysis and later recovered-device evidence: text messages, WhatsApp patterns, photographs, browser history, Amazon activity, and witness recollections.
+This document synthesizes the reconstructed record of Ryan, the subject of this file, across his interpersonal, therapeutic, family, medication, digital, and suicide timeline from 2023 through February 2025. The record was reconstructed by Garrett, Ryan's cousin, from prior case-file/addendum analysis and later recovered-device evidence: text messages, the full Nienke WhatsApp export available for September 3, 2024 through February 11, 2025, photographs, browser history, Amazon activity, and witness recollections.
 
 This is not a clinical diagnosis, legal conclusion, or finding of a single cause of death. The record supports a multi-factor process: mood deterioration, social withdrawal, romantic ambiguity, self-esteem regulation through attention from women, therapeutic framing, family/developmental context, selective self-presentation, digital deletion, and eventual suicide preparation. None of these should be treated as sufficient by itself.
 
@@ -66,7 +66,7 @@ By late October 2024, Ryan's depressive downturn is documented independently of 
 
 From November through January, the Nienke relationship and Ryan's broader functioning moved in opposite directions. Nienke's life expanded outward through parents, NYC, the Southwest, Europe, and Hawaii. Ryan's world contracted: less dancing, less gym, more sleep, fewer routines, lower energy, more isolation, declining invitations, and minimizing concern from friends. Nienke's communication dropped sharply by message count, but by January the initiation pattern reversed completely: Ryan initiated zero active conversation days while Nienke initiated all of them. She did not disappear when he stopped being useful for rides.
 
-The late January suicide window is the most significant concrete transition. Around January 25-26, Nienke confronted Ryan about ignoring her and asked whether he still wanted to be friends. Ryan said he was feeling exceptionally down, needed time alone, and that she had done nothing wrong. Around the same period, the Amazon history shows purchase of the rope later associated with his death. That timing is important, but it does not establish that Nienke caused the purchase or the suicide. It more defensibly suggests that by late January, the depressive withdrawal may have moved into concrete preparation.
+The late January suicide window is the most significant concrete transition. Around January 25-26, Nienke challenged Ryan's non-responsiveness as hurtful and unlike communication between friends, and raised the possibility that he no longer wanted the friendship. Ryan apologized for being unresponsive, said he was feeling exceptionally down, needed time alone, and said she had done nothing wrong. Around the same period, the Amazon history shows purchase of the rope later associated with his death. That timing is important, but it does not establish that Nienke caused the purchase or the suicide. It more defensibly suggests that by late January, the depressive withdrawal may have moved into concrete preparation.
 
 By February, several people were trying to reach Ryan: Nienke, Olivia, Brad, Aaron, John, Charlie, Joe, Lucas, and others. Brad and John explicitly questioned whether Ryan was really okay. Joe and Lucas, Ryan's neighbors, reportedly observed that from December through February Ryan did not seem to be taking good care of himself, sometimes appeared not to be showering, and came over almost daily simply to hang out. They cooked extra food because they were concerned he might not be eating properly. At the same time, Ryan still engaged in ordinary future-oriented acts: paying toward the upcoming bowling competition season, calculating his bowling-fee share on his phone, and apparently having dinner plans for the following week. Those acts complicate the picture but do not negate the rope evidence. Ryan increasingly minimized his condition as tiredness or busyness. His browsing history in the final weeks included death prediction, clairvoyance/paranormal concepts, psychiatric terms, and quantum immortality, but those searches do not prove belief or intent by themselves. The final known text was reportedly to Drew around 9 PM on February 15, 2025.
 
@@ -177,13 +177,16 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 - October 26, 2024: Trace Brewing selfie. A prior note said 2026, but the sequence indicates 2024.
 - December 2024: Ryan, Nienke, and Brad at a Christmas party, with video.
 
-**Established/corroborated WhatsApp volume:** The WhatsApp message counts show high September/October intensity followed by sharp decline:
+**Established/corroborated WhatsApp volume:** The full WhatsApp export runs from September 3, 2024 through February 11, 2025. After excluding two WhatsApp administrative entries, it contains 3,457 non-system entries: 3,128 written-text entries, 314 media placeholders, 10 call-log entries, 4 deleted-message markers, and 1 blank entry. Nienke sent 2,063 total entries and Ryan sent 1,394. In written-text entries only, Nienke sent 1,825 and Ryan sent 1,303.
 
-- September: 1,248 messages.
-- October: 1,158 messages.
-- November: 407 messages.
-- December: 234 messages.
-- January: 80 messages.
+**Established/corroborated written-text decline:** The written-text counts show high September/October intensity followed by sharp decline. Totals in parentheses include media placeholders, call logs, deleted-message markers, and the blank entry.
+
+- September: 1,243 written-text entries; 1,363 total entries.
+- October: 1,153 written-text entries; 1,281 total entries.
+- November: 405 written-text entries; 450 total entries.
+- December: 233 written-text entries; 247 total entries.
+- January: 79 written-text entries; 99 total entries.
+- February through February 11: 15 written-text entries; 17 total entries.
 
 **Established/corroborated initiation reversal:** In January, Ryan initiated zero active conversation days, while Nienke initiated all ten. Under a separate 8-hour-gap definition, Ryan again initiated zero and Nienke initiated eleven. In February through the end of the export, Ryan again initiated zero while Nienke initiated four.
 
@@ -251,11 +254,11 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 
 **Established/corroborated:** Nienke's life became more expansive: parents visiting, NYC, Southwest travel, Europe, and later Hawaii. She sent Ryan photos and updates from travel; he sometimes did not engage.
 
-**Established/corroborated:** The WhatsApp record also suggests a possible late-October-through-holiday asymmetry. Nienke appears to have left town at least at times without saying goodbye, some later contact appears oriented around practical needs such as pickup/rides, and Ryan's Christmas and New Year's messages were not promptly answered or reciprocated.
+**Established/corroborated:** The full WhatsApp export supports a narrower late-October-through-holiday asymmetry claim. On November 16, Nienke acknowledged that she and Ryan should have said goodbye before a trip and attributed the missed goodbye to work busyness. Some later exchanges began around travel or ride logistics, including an explicit January 9 airport ride request and a January 21 airport-return update after prior non-response. However, the holiday record does not support a claim of total non-response: Nienke answered the December 24 Christmas exchange that night and answered Ryan's December 31 New Year greeting on January 1.
 
 **Established/corroborated:** Ryan's functioning contracted. He communicated fatigue, brain fog, less dancing, trouble returning to the gym, work draining him, bowling "keeping me grounded," and less optimism around dating.
 
-**Plausible inference:** The message decline likely reflects two overlapping processes: Nienke's physical/lifestyle unavailability and Ryan's progressive depressive withdrawal. But the unanswered holiday messages and practical-contact pattern could also have made the relationship feel asymmetrical to Ryan: he may have experienced himself as available for support, logistics, attention, and emotional labor while receiving less ordinary continuity or acknowledgment in return. Travel alone cannot explain the January pattern because when Nienke returned and tried to reconnect, Ryan still did not reengage.
+**Plausible inference:** The message decline likely reflects two overlapping processes: Nienke's physical/lifestyle unavailability and Ryan's progressive depressive withdrawal. The better-supported asymmetry formulation is uneven continuity, not abandonment: travel gaps, missed goodbyes, and some practical-contact openings may have left Ryan feeling less like a daily companion and more like occasional support. Travel alone cannot explain the January pattern because when Nienke returned and tried to reconnect, Ryan still did not reengage.
 
 ### January 2025: Deletion, Withdrawal, and Reversal
 
@@ -267,7 +270,7 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 
 **Established/corroborated:** Nienke asked for an airport ride on January 9. Ryan did not provide it. Importantly, she continued trying to see him afterward, which weighs against the strongest version of the theory that she was simply using him for transportation.
 
-**Established/corroborated:** By late January, Ryan had stopped initiating with Nienke. Nienke called, asked if he was alive, asked if he still wanted to be friends, told him his ignoring her was hurtful, and asked him to communicate clearly. Ryan said he had been feeling exceptionally down, needed time alone, and that she had done nothing wrong. Nienke warned that further isolation would not help.
+**Established/corroborated:** By late January, Ryan had stopped initiating with Nienke. Nienke called, asked if he was alive, framed his non-response as hurtful and unlike communication between friends, and raised the possibility that he no longer wanted the friendship. Ryan apologized for being unresponsive, said he had been feeling exceptionally down, needed time alone, and said Nienke had done nothing wrong. Nienke warned that further isolation would not help.
 
 **Established/corroborated:** When Nienke came to Ryan's apartment, Ryan reportedly did not let her in and appeared to pretend he was sleeping. This occurred despite evidence that Ryan could still go to Joe and Lucas's house and participate at least intermittently in bowling-related plans or activity.
 
@@ -290,6 +293,12 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 **Established/corroborated:** Ryan also gave friends money for the upcoming bowling competition season and appears to have used the calculator on his phone to check his share of the bowling fee. Friends also had general plans to have dinner the following week.
 
 **Corroborated observation:** These ordinary future-oriented acts complicate the final-days picture. They do not negate suicide preparation, but they show that Ryan was still participating in practical future planning at the same time the rope evidence suggests significant danger.
+
+**Established by witness report:** Joe and Lucas reportedly watched *Hereditary* with Ryan in January or February, and Ryan asked to watch it again a few days later.
+
+**Plausible inference:** This is a soft data point only. The film's themes of family dread, grief, inherited doom, and loss of agency may have resonated with Ryan's state, but a movie choice cannot establish intent, belief, or cause. It also shows that Ryan continued to seek or accept passive, low-demand time with neighbors while avoiding other, more emotionally charged contacts.
+
+**Established/corroborated:** Ryan returned the Christmas present Olivia had given him by secretly taking it back to her house and leaving it at the door.
 
 **Established/corroborated:** When Ryan returned Olivia's Christmas present, he reportedly told her he was trying to downsize. Olivia and Ryan discussed Nienke during that encounter. Olivia told Ryan she did not like Nienke and found the situation suspicious. Ryan reportedly remained defensive of the relationship, which led Olivia to believe he still had hope regarding Nienke into January.
 
@@ -377,19 +386,19 @@ Ryan repeatedly provided transportation and logistical support: IKEA, errands, d
 
 The pattern is better understood as asymmetric caretaking. Ryan seemed to use usefulness as a route to intimacy. Being the person who helped, drove, planned, supported, and made things easier appears connected to his self-concept. Nienke may have experienced this as help from a very close friend. Ryan may have experienced it as partner-like investment.
 
-The late-October-through-holiday pattern adds a second asymmetry. After the intense September/early-October period, Nienke's travel and reduced responsiveness may have left Ryan feeling demoted from daily companion to occasional practical support. The WhatsApp record reportedly includes episodes where she left town without saying goodbye, later reached out around practical pickup needs, and did not promptly respond to Ryan's Christmas or New Year's messages. This does not prove exploitation, but it is relevant to how the relationship may have felt from Ryan's side.
+The late-October-through-holiday pattern adds a second asymmetry, but the full export makes the careful version narrower. After the intense September/early-October period, Nienke's travel and reduced continuity may have left Ryan feeling demoted from daily companion to occasional practical support. The WhatsApp record includes a November missed-goodbye episode that Nienke acknowledged, later travel or ride-oriented openings, and a January 9 airport ride request phrased with an out. The holiday messages were not absent: Nienke answered the Christmas exchange that night and answered the New Year greeting the next afternoon. This does not prove exploitation, but it remains relevant to how the relationship may have felt from Ryan's side.
 
 January tests the exploitation hypothesis. When Ryan stopped providing rides and stopped engaging, Nienke continued reaching out. She called, asked whether he was alive, asked whether he wanted to remain friends, offered coffee/walks/events, and eventually offered to come to his apartment so he did not need to go out. This strongly suggests she cared about Ryan beyond his usefulness.
 
 But the apartment episode also changes the meaning of "withdrawal." Ryan reportedly did not let Nienke in and appeared to pretend he was sleeping when she came to him. Yet he still went to Joe and Lucas's house and remained intermittently connected to bowling. That contrast suggests not simple physical isolation, but selective avoidance: Nienke may have represented emotional accountability, shame, romantic disappointment, or a relationship conversation Ryan could not tolerate, while Joe and Lucas offered passive, low-demand companionship.
 
-### 7. Digital Deletion and Absence of Apology
+### 7. Digital Deletion and Repair Evidence
 
 The January 10 deletion matters because it occurs inside the broader transition from depressive symptoms into social withdrawal. If Ryan deleted all messages on or around that date, the act may indicate privacy management, shame, emotional reset, concealment, or ordinary digital cleanup. The motive is unknown.
 
 The deletion also creates an evidentiary problem: absence after January 10 may partly reflect destruction of records rather than absence of events.
 
-Separately, the recovered record reportedly contains no meaningful apology language or apology document from Ryan. That absence fits the broader pattern of avoidance rather than repair, but it cannot prove that Ryan never apologized verbally or in deleted messages. It should be recorded as a negative finding: no recovered apology evidence, not proof of no apology.
+Separately, no recovered Word note or sustained repair narrative from Ryan has been identified. The WhatsApp export does contain brief situational apologies, including Ryan's January 26 apology for being unresponsive and smaller apologies around missed messages or sympathy. The negative finding is therefore narrower: no recovered evidence of a larger reflective apology/repair document, not proof that Ryan never apologized verbally, in brief texts, or in deleted messages.
 
 ### 8. Historical Relationship Withdrawal
 
@@ -457,22 +466,23 @@ The strongest fair statement is: Nienke's post-death behavior appeared emotional
 - Ryan had earlier spring 2024 mood swings, Lexapro involvement, psychiatric contact, and possible activation/hypomania discussion.
 - Ryan explicitly linked women's attention to confidence, self-esteem, self-worth, and mood.
 - Ryan spent repeated documented time with Nienke from July through December 2024.
-- WhatsApp volume with Nienke was extremely high in September and October and declined sharply afterward.
+- WhatsApp volume with Nienke was extremely high in September and October and declined sharply afterward under both written-text and all-entry counts.
 - Ryan privately categorized Nienke as one of the women on his romantic radar.
 - Ryan described himself as "waiting in the wings" regarding Nienke/Maarten.
 - Ryan told friends about unusual physical closeness with Nienke.
 - Olivia later described Ryan as completely obsessed with Nienke and said the relationship appeared dating-like at baseline.
 - Ryan discussed other dates after the marathon but Nienke remained dominant in the recovered photo record.
-- The WhatsApp record suggests a late-October-through-holiday asymmetry: Nienke sometimes left town without saying goodbye, later contact sometimes centered on pickup/ride needs, and Ryan's Christmas/New Year's messages were not promptly answered or reciprocated.
+- The WhatsApp record supports a narrower late-October-through-holiday asymmetry: a November missed-goodbye episode, later travel or ride-oriented openings, and reduced continuity, while the Christmas and New Year exchanges were answered.
 - On January 10, Ryan appears to have deleted messages.
 - In January, Ryan stopped initiating with Nienke while she initiated contact.
 - When Nienke came to Ryan's apartment, Ryan reportedly did not let her in and appeared to pretend he was sleeping.
 - Ryan still went to Joe and Lucas's house and remained intermittently connected to bowling-related plans or activity.
-- Around January 26, Nienke confronted Ryan about being a bad friend/ignoring her and Ryan said he was exceptionally down and needed isolation.
+- Around January 26, Nienke challenged Ryan's non-response as hurtful and unlike communication between friends; Ryan apologized for being unresponsive and said he was exceptionally down and needed isolation.
 - Around the same period, Amazon history shows purchase of the rope later associated with his death.
 - The rope was a half-inch utility rope, Ryan was not known to be a climber, and it was reportedly Ryan's only Amazon order from 2025.
 - In February, Brad, Aaron, John, Olivia, Nienke, and Charlie were trying to reach or check on Ryan.
 - Ryan paid money toward the upcoming bowling competition season, had calculator math on his phone for his bowling-fee share, and had general dinner plans for the following week.
+- Joe and Lucas reportedly watched *Hereditary* with Ryan in January or February, and Ryan asked to watch it again a few days later.
 - Ryan returned Olivia's Christmas present by leaving it at her door.
 - When Ryan returned Olivia's Christmas present, he reportedly told Olivia he was trying to downsize, discussed Nienke, and remained defensive of the Nienke relationship after Olivia said she disliked Nienke and found the situation suspicious.
 - Joe and Lucas observed apparent self-care decline from December through February, including possible poor hygiene and concerns about whether Ryan was eating properly.
@@ -493,7 +503,7 @@ The strongest fair statement is: Nienke's post-death behavior appeared emotional
 - Ryan's 2022 Facebook relationship-update conflict supports a pattern of indirect romantic disclosure and counter-accusation rather than apology.
 - Ryan's caretaking/usefulness role with Nienke was substantial and partner-like in practice.
 - Nienke's attachment to Ryan cannot be reduced to transportation because she pursued contact after he stopped providing rides.
-- The relationship may nevertheless have felt asymmetrical to Ryan before January because he was often available for support/logistics while ordinary continuity or holiday acknowledgment from Nienke appeared inconsistent.
+- The relationship may nevertheless have felt asymmetrical to Ryan before January because he was often available for support/logistics while ordinary continuity from Nienke appeared inconsistent.
 - Friends reinforced Ryan's romantic interpretation of Nienke more than they challenged it.
 - Olivia later stated that many friends encouraged Ryan's hope that he and Nienke would be good together or looked picture-perfect.
 - Maarten's perspective is largely missing from the recovered analysis.
@@ -511,6 +521,7 @@ The strongest fair statement is: Nienke's post-death behavior appeared emotional
 - The January 26 rope purchase may mark the transition from depressive withdrawal into concrete suicide preparation.
 - The bowling payment, calculator math, and dinner plans suggest continued ordinary future planning, which may indicate ambivalence, compartmentalization, habit, or incomplete finality of intent. The specific meaning is unknown.
 - Returning Olivia's Christmas present may indicate shame, perceived unworthiness, withdrawal, or an attempt to close an emotional loop. The specific meaning is unknown.
+- Ryan's request to rewatch *Hereditary* may suggest resonance with dark family/grief themes or may simply reflect passive time with neighbors. It is a soft data point, not proof of intent.
 - Ryan's family/home background may have normalized unfinishedness, avoidance, and unresolved dysfunction.
 - Therapy may have strengthened Ryan's capacity to identify unhealthy dynamics while insufficiently challenging his own role in them.
 
@@ -526,7 +537,7 @@ The strongest fair statement is: Nienke's post-death behavior appeared emotional
 - Whether Ryan's bowling payment, fee calculation, and dinner plans reflected genuine expectation of future participation, routine behavior, ambivalence, or concealment.
 - Why Ryan returned Olivia's Christmas present.
 - Whether the January 10 deletion was related to shame, privacy, concealment, emotional reset, device management, or something else.
-- Whether any apology existed in deleted messages, in-person conversations, or unrecovered records.
+- Whether any larger reflective apology or repair attempt existed in deleted messages, in-person conversations, or unrecovered records.
 - What Nienke believed the relationship was during September/October and whether she understood Ryan's romantic investment.
 - Whether any ultimatum or explicit relationship decision occurred between Ryan and Nienke near Valentine's Day weekend.
 - Why Ryan would not let Nienke in when she came to his apartment despite still going to Joe and Lucas's house or remaining intermittently connected to bowling.
@@ -565,7 +576,7 @@ Late October prevents a simple causal story. Ryan was still seeing Nienke after 
 
 Through November and December, Nienke's life expanded while Ryan's contracted. Her parents came, she went to NYC, then the Southwest, then Europe, then Hawaii. Ryan's communication declined sharply. But the January initiation data shows the decline was not simply her abandoning him. By January, she initiated all active conversation days and Ryan initiated none. He no longer served as the constant driver/helper, but she continued to pursue him. That is important because it complicates the painful but too-simple story that she used him for rides and discarded him.
 
-Still, the late-October-through-holiday WhatsApp pattern may have felt asymmetrical before January. Nienke appears at times to have left town without saying goodbye, later contacts sometimes centered on pickup or ride needs, and Ryan's Christmas and New Year's messages were not promptly answered or reciprocated. The careful formulation is not "exploitation proven," but "asymmetry felt": the relationship could have mattered to both people while still becoming painful for Ryan because ordinary continuity, acknowledgment, and practical support did not appear balanced.
+Still, the late-October-through-holiday WhatsApp pattern may have felt asymmetrical before January, but the full export narrows the claim. Nienke acknowledged a missed goodbye before travel, some later openings were travel or ride-oriented, and continuity was reduced. The Christmas and New Year messages were answered, with the New Year reply arriving the next afternoon. The careful formulation is not "exploitation proven," but "uneven continuity": the relationship could have mattered to both people while still becoming painful for Ryan because ordinary availability, acknowledgment, and practical support did not appear balanced.
 
 At the same time, Ryan was presenting other romantic stories to other people. He told Rob at Christmas about Sreyashi Mukherjee, an Indian woman he was dating, and apparently did not mention Nienke. He told Nienke about Beth kissing him in unusually detailed terms. He dated, or tried to date, while the recovered photo archive remained dominated by Nienke. This suggests that conventional dating and primary emotional salience were not the same thing.
 
@@ -608,11 +619,11 @@ What this theory does not fully explain is the timing of the rope purchase aroun
 
 The core theory is that Ryan's depressive episode became more dangerous because the Nienke relationship had become a major self-worth scaffold during a period when Ryan was unusually dependent on attention from women for confidence, mood, and identity.
 
-This theory explains why Nienke dominates the photographic record, why Ryan discussed her with multiple confidantes, why he did not pathologize her the way he pathologized other women, why he tolerated the Maarten triangle, and why the marathon weekend mattered. It also explains the emotional force of the late-January confrontation: Nienke was not rejecting him romantically, but she was telling him that he was failing as a friend. For someone whose bond with her was built partly around being useful, attentive, supportive, and special, becoming the "bad friend" may have struck a particularly painful identity wound.
+This theory explains why Nienke dominates the photographic record, why Ryan discussed her with multiple confidantes, why he did not pathologize her the way he pathologized other women, why he tolerated the Maarten triangle, and why the marathon weekend mattered. It also explains the emotional force of the late-January confrontation: Nienke was not rejecting him romantically, but she was telling him that his silence was hurting the friendship. For someone whose bond with her was built partly around being useful, attentive, supportive, and special, being positioned as the person failing the friendship may have struck a particularly painful identity wound.
 
-The theory also explains why late-October-through-holiday asymmetry may matter: unanswered Christmas/New Year's messages, leaving town without goodbye, and practical pickup/ride-oriented contact could have felt to Ryan like a demotion from special companion to useful support person.
+The theory also explains why late-October-through-holiday asymmetry may matter: missed goodbye, travel gaps, reduced continuity, and practical travel/ride-oriented openings could have felt to Ryan like a demotion from special companion to useful support person. The full export weakens any claim of total holiday non-response because the Christmas and New Year exchanges were answered.
 
-The "one more thing" in this theory is the timing: Nienke confronts him around January 25-26; Ryan says he is exceptionally down and needs isolation; the rope is purchased around the same period; the death occurs roughly two weeks later, on Valentine's Day weekend. That does not prove causation. It does make the Nienke rupture or confrontation difficult to dismiss as irrelevant.
+The "one more thing" in this theory is the timing: Nienke challenges Ryan's non-response around January 25-26; Ryan says he is exceptionally down and needs isolation; the rope is purchased around the same period; the death occurs roughly two weeks later, on Valentine's Day weekend. That does not prove causation. It does make the Nienke rupture or confrontation difficult to dismiss as irrelevant.
 
 This theory is strengthened by the selectivity of Ryan's avoidance. He reportedly would not let Nienke into his apartment and appeared to pretend he was sleeping, even while he still went to Joe and Lucas's house and remained connected enough to bowling to pay fees and calculate costs. That does not mean he was well. It means Nienke may have been uniquely difficult for him to face.
 
@@ -628,6 +639,6 @@ Ryan often occupied the role of competent helper, driver, advisor, analyst, emot
 
 The "one more thing" in this theory is that Ryan was skilled at identifying manipulation, pathology, and inconsistency in other people, but less able to metabolize his own contradictions. By late January, he was no longer only the helper. He was the person being chased, worried about, fed, checked on, confronted, and possibly seen as failing. Returning Olivia's Christmas present may fit this frame: not merely sadness, but shame, unworthiness, or an attempt to remove a relational debt.
 
-This theory explains the January 10 message deletion, the absence of recovered apology language, the defensive counter-accusation pattern from 2022, the different stories told to different audiences, and the late-stage minimization to Brad and John. It also fits the family/home theme of chronic unfinishedness: unresolved things could remain unresolved until they became part of the structure.
+This theory explains the January 10 message deletion, the absence of a recovered sustained apology or repair document, the defensive counter-accusation pattern from 2022, the different stories told to different audiences, and the late-stage minimization to Brad and John. It also fits the family/home theme of chronic unfinishedness: unresolved things could remain unresolved until they became part of the structure.
 
 What this theory does not fully explain is why shame would culminate in suicide at that specific time rather than earlier, or why Ryan still engaged in practical future planning around bowling and dinner. It also risks over-interpreting character patterns as motive. The safer conclusion is narrower: shame and self-image conflict may have made it harder for Ryan to disclose the true severity of his condition or accept help once he was deteriorating.
