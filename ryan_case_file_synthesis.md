@@ -298,8 +298,6 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 
 **Plausible inference:** This is a soft data point only. The film's themes of family dread, grief, inherited doom, and loss of agency may have resonated with Ryan's state, but a movie choice cannot establish intent, belief, or cause. It also shows that Ryan continued to seek or accept passive, low-demand time with neighbors while avoiding other, more emotionally charged contacts.
 
-**Established/corroborated:** Ryan returned the Christmas present Olivia had given him by secretly taking it back to her house and leaving it at the door.
-
 **Established/corroborated:** When Ryan returned Olivia's Christmas present, he reportedly told her he was trying to downsize. Olivia and Ryan discussed Nienke during that encounter. Olivia told Ryan she did not like Nienke and found the situation suspicious. Ryan reportedly remained defensive of the relationship, which led Olivia to believe he still had hope regarding Nienke into January.
 
 **Plausible inference:** The returned gift may represent shame, withdrawal, perceived unworthiness, an attempt to close an emotional loop, or a private message to Olivia. Ryan's stated explanation was downsizing, but the timing and secrecy make the act noteworthy. Motive unknown.
