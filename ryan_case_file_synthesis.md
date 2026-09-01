@@ -291,8 +291,6 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 
 **Corroborated observation:** These ordinary future-oriented acts complicate the final-days picture. They do not negate suicide preparation, but they show that Ryan was still participating in practical future planning at the same time the rope evidence suggests significant danger.
 
-**Established/corroborated:** Ryan returned the Christmas present Olivia had given him by secretly taking it back to her house and leaving it at the door.
-
 **Established/corroborated:** When Ryan returned Olivia's Christmas present, he reportedly told her he was trying to downsize. Olivia and Ryan discussed Nienke during that encounter. Olivia told Ryan she did not like Nienke and found the situation suspicious. Ryan reportedly remained defensive of the relationship, which led Olivia to believe he still had hope regarding Nienke into January.
 
 **Plausible inference:** The returned gift may represent shame, withdrawal, perceived unworthiness, an attempt to close an emotional loop, or a private message to Olivia. Ryan's stated explanation was downsizing, but the timing and secrecy make the act noteworthy. Motive unknown.
