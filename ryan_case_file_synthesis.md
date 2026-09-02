@@ -20,7 +20,7 @@ This is not a clinical diagnosis, legal conclusion, or finding of a single cause
 
 **Nienke** was a Dutch woman Ryan met through dance in Pittsburgh. She became Ryan's unusually close friend and ambiguous romantic focus in 2024.
 
-**Maarten** was Nienke's boyfriend/partner during the relevant period. He visited Pittsburgh and spent time with both Nienke and Ryan.
+**Maarten** was Nienke's boyfriend/partner during the relevant period. He visited Pittsburgh and spent time with both Nienke and Ryan. He was also with Nienke on the November 2024 Southwest USA road trip, which included the Tempe/IRONMAN context.
 
 **Olivia** was Ryan's cousin and one of his confidantes, especially in conversations where Ryan interpreted Nienke's behavior, discussed dating, later declined social invitations, and reportedly remained defensive about Nienke into January 2025.
 
@@ -64,7 +64,7 @@ The October 2024 marathon weekend was emotionally important but should not be ov
 
 By late October 2024, Ryan's depressive downturn is documented independently of Nienke. On October 27, he told Briana he had been down all weekend, had less energy for hobbies, exercise, and routines, and was sleeping a lot. Briana recognized this as similar to seasonal depression after his birthday, though later than the prior year. On October 28, Ryan told Olivia his mood, motivation, and energy were sinking, that he was considering leaving the dance performance team, sleeping more, tired all the time, inconsistent with lifting, talking to his therapist, and using a light box. This strongly supports an October clinical inflection point rather than a January onset.
 
-From November through January, the Nienke relationship and Ryan's broader functioning moved in opposite directions. Nienke's life expanded outward through parents, NYC, the Southwest, Europe, and Hawaii. Ryan's world contracted: less dancing, less gym, more sleep, fewer routines, lower energy, more isolation, declining invitations, and minimizing concern from friends. Nienke's communication dropped sharply by message count, but by January the initiation pattern reversed completely: Ryan initiated zero active conversation days while Nienke initiated all of them. She did not disappear when he stopped being useful for rides.
+From November through January, the Nienke relationship and Ryan's broader functioning moved in opposite directions. Nienke's life expanded outward through parents, NYC, the Southwest road trip with Maarten, Europe, and Hawaii. Ryan's world contracted: less dancing, less gym, more sleep, fewer routines, lower energy, more isolation, declining invitations, and minimizing concern from friends. Nienke's communication dropped sharply by message count, but by January the initiation pattern reversed completely: Ryan initiated zero active conversation days while Nienke initiated all of them. She did not disappear when he stopped being useful for rides.
 
 The late January suicide window is the most significant concrete transition. Around January 25-26, Nienke challenged Ryan's non-responsiveness as hurtful and unlike communication between friends, and raised the possibility that he no longer wanted the friendship. Ryan apologized for being unresponsive, said he was feeling exceptionally down, needed time alone, and said she had done nothing wrong. Around the same period, the Amazon history shows purchase of the rope later associated with his death. That timing is important, but it does not establish that Nienke caused the purchase or the suicide. It more defensibly suggests that by late January, the depressive withdrawal may have moved into concrete preparation.
 
@@ -110,9 +110,15 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 
 **Established by witness report:** Ryan's family home is described as a chronically unfinished and dysfunctional environment. Specific examples include a rear patio removed decades earlier and never replaced, a sliding patio door opening onto a significant drop, carpet removed and left as plywood for decades, door trim never finished after remodeling began, and basic home functioning such as a working shower reportedly absent for years.
 
+**Established fact from WhatsApp:** Ryan himself expressed concern about the family home's condition. On December 4, 2024, after Thanksgiving, he told Nienke that Thanksgiving was okay, that everyone was getting old, and that the house was almost in disrepair. The message appears to contain a typo, but the context strongly suggests he meant "house." This matters because the family-home concern was not only a later witness interpretation; Ryan also voiced it contemporaneously.
+
 **Plausible inference:** This environment may have normalized chronic incompletion: visible problems could remain unresolved indefinitely. This is not evidence of a diagnosis for Ryan or his parents. It is relevant context for Ryan's later patterns of unfinished obligations, avoidance, deferred repair, and tolerated ambiguity.
 
-**Unknown:** The record does not establish how Ryan internally experienced the house or whether he consciously linked it to his own functioning.
+**Established fact from WhatsApp:** Ryan also discussed family-health stress with Nienke. On October 9, 2024, he said his father had recently gone to the doctor and was apparently pre-diabetic. On October 22, 2024, he said he had just spoken to his father and that his father had been diagnosed with stage 3 chronic kidney disease.
+
+**Plausible inference:** The house condition and his father's health may have added background stress during the same period when Ryan's mood was beginning to deteriorate. The record does not support treating either as a primary cause of suicide.
+
+**Unknown:** The record does not establish how Ryan internally experienced the house, his father's diagnosis, or whether he consciously linked either to his own functioning.
 
 ### December 2023: Vehicle, Boxes, and Self-Presentation
 
@@ -190,6 +196,8 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 
 **Established/corroborated initiation reversal:** In January, Ryan initiated zero active conversation days, while Nienke initiated all ten. Under a separate 8-hour-gap definition, Ryan again initiated zero and Nienke initiated eleven. In February through the end of the export, Ryan again initiated zero while Nienke initiated four.
 
+**Established/corroborated density break:** From September 3 through November 16, 2024, the WhatsApp export shows near-continuous contact: 75 calendar days, 72 active days, and only three days with no non-system entries. During that period the export contains 3,071 non-system entries, including 2,794 written-text entries. The first gap over 24 hours occurred September 27-29, and the first gap over 48 hours occurred November 2-4. The first major 72-hour-plus rupture began after November 16: from Ryan's November 16 afternoon message wishing Nienke a good trip until his Thanksgiving message on November 28, a gap of approximately 11 days and 18 hours.
+
 **Corroborated observation:** Calling Nienke merely a casual dance friend understates the intensity of the relationship. Even if it remained formally platonic, the behavioral pattern resembled a significant emotional attachment: frequent contact, shared activities, physical affection, practical support, logistical planning, trips, meals, dancing, and family/social integration.
 
 ### September 2024: The Maarten Triangle
@@ -234,6 +242,8 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 
 **Established fact:** On October 20, Ryan and Nienke went to Kinzua Bridge and he appeared to be having a good time in photos.
 
+**Established fact:** Family-health stress was also present in October. On October 9, Ryan told Nienke that his father had recently gone to the doctor and was apparently pre-diabetic. On October 22, Ryan said he had spoken to his father and that his father had been diagnosed with stage 3 chronic kidney disease.
+
 **Established fact:** On October 26, Ryan and Nienke went to Trace Brewing and took a selfie.
 
 **Established fact:** On October 27, Ryan texted Briana that he had been feeling down all weekend, that activities required more energy, that hobbies/exercise/routines were harder, and that he was sleeping a lot. Briana identified the pattern as seasonal depression, later than the prior year, and suggested psychiatrist contact; she said half a dose would not hurt but wanted the psychiatrist's view.
@@ -252,7 +262,7 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 
 ### November-December 2024: Communication Decline and Travel
 
-**Established/corroborated:** Nienke's life became more expansive: parents visiting, NYC, Southwest travel, Europe, and later Hawaii. She sent Ryan photos and updates from travel; he sometimes did not engage.
+**Established/corroborated:** Nienke's life became more expansive: parents visiting, NYC, the November Southwest USA road trip with Maarten, Europe, and later Hawaii. The November trip was documented through the Polarsteps trip link Nienke later sent in WhatsApp, and Garrett identifies it as the trip with Maarten connected to the Tempe/IRONMAN context. She sent Ryan photos and updates from travel; he sometimes did not engage.
 
 **Established/corroborated:** The WhatsApp export captures a November 5 communication-style mismatch. Ryan said he was exhausted and not in the mood to dance. Nienke responded directly that this was not a good reason to skip and told him to "Make some mood." She then noted that her parents would view the message as "too directly Dutch," while also framing it as honesty. This is not evidence of cruelty. It is evidence that Nienke's style under strain was direct pursuit, while Ryan's style under strain was withdrawal.
 
@@ -260,7 +270,11 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 
 **Established/corroborated:** The full WhatsApp export supports a narrower late-October-through-holiday asymmetry claim. On November 16, Nienke acknowledged that she and Ryan should have said goodbye before a trip and attributed the missed goodbye to work busyness. Some later exchanges began around travel or ride logistics, including an explicit January 9 airport ride request and a January 21 airport-return update after prior non-response. However, the holiday record does not support a claim of total non-response: Nienke answered the December 24 Christmas exchange that night and answered Ryan's December 31 New Year greeting on January 1.
 
+**Plausible inference:** The November 16 rupture may be more important than a generic travel gap. The export shows that on October 13 Nienke referenced reviewing a November itinerary with Maarten and later identifies the trip as Southwest USA; Garrett confirms the trip was with Maarten. Therefore, the missed goodbye and sudden 11-day silence may have functioned as a relationship reality check for Ryan. In that frame, Ryan was not merely losing a daily texting rhythm; he was watching Nienke continue the travel/partner life with Maarten that Ryan may have wanted with her. This is a plausible relationship-dynamics inference, not an established fact about Ryan's internal conclusion.
+
 **Established/corroborated:** Ryan's functioning contracted. He communicated fatigue, brain fog, less dancing, trouble returning to the gym, work draining him, bowling "keeping me grounded," and less optimism around dating.
+
+**Established fact:** On December 4, after Thanksgiving, Ryan told Nienke that Thanksgiving was okay, everyone was getting old, and the house was almost in disrepair. This was followed immediately by a comment about the food being good, weight gain, and anticipation of hearing about Nienke's travel when she returned.
 
 **Plausible inference:** The message decline likely reflects two overlapping processes: Nienke's physical/lifestyle unavailability and Ryan's progressive depressive withdrawal. The better-supported asymmetry formulation is uneven continuity, not abandonment: travel gaps, missed goodbyes, and some practical-contact openings may have left Ryan feeling less like a daily companion and more like occasional support. Travel alone cannot explain the January pattern because when Nienke returned and tried to reconnect, Ryan still did not reengage.
 
@@ -404,7 +418,9 @@ The strongest relationship-dynamics formulation is that September and October ma
 
 This is the hidden-contract risk. A hidden contract is an unspoken expectation that care, usefulness, emotional availability, and reliability will eventually be recognized as romantic worth. It does not require conscious manipulation. It can arise when one person behaves as if the relationship is moving toward romance while the other continues to understand the bond as close friendship.
 
-Once Maarten remained visibly present--through ongoing relationship continuity, travel, and Nienke's ordinary sharing of her life--Ryan may have begun to recognize that the romantic possibility was not materializing. That would make the later cooling more understandable. People often invest more energy while evaluating a possible romantic future and then pull back, consciously or not, once the answer appears to be no.
+Once Maarten remained visibly present--through ongoing relationship continuity, the November Southwest USA road trip with Nienke, and Nienke's ordinary sharing of her life--Ryan may have begun to recognize that the romantic possibility was not materializing. That would make the later cooling more understandable. People often invest more energy while evaluating a possible romantic future and then pull back, consciously or not, once the answer appears to be no.
+
+The first major silence gives this theory a concrete hinge. Before November 16, Ryan and Nienke were in near-daily contact with very few blank days. After Nienke left for the November trip with Maarten, following an acknowledged missed goodbye, the chat went silent for nearly 12 days. That silence may have made the Maarten reality unavoidable: Nienke was continuing a partner/travel life elsewhere, while Ryan remained in Pittsburgh after months of high-effort support. That could have made the prior courtship-like investment feel futile or humiliating.
 
 This does not displace the mental-health evidence. Ryan's depression, seasonal pattern, work stress, post-election distress, disrupted routines, reduced dancing, gym inconsistency, and treatment uncertainty remain credible and independently documented. The more complete formulation is that both processes may have overlapped: genuine low mood reduced Ryan's capacity, while the apparent failure of the Nienke romantic possibility made that specific relationship emotionally harder to sustain.
 
@@ -491,9 +507,11 @@ The strongest fair statement is: Nienke's post-death behavior appeared emotional
 - Ryan asked about Lexapro and was advised to contact his psychiatrist.
 - Ryan had earlier spring 2024 mood swings, Lexapro involvement, psychiatric contact, and possible activation/hypomania discussion.
 - On September 5, Ryan told Nienke that his doctor recommended routines, socializing, activity, light/sun, and continuing therapy.
+- On October 9, Ryan told Nienke his father was apparently pre-diabetic; on October 22, Ryan said his father had been diagnosed with stage 3 chronic kidney disease.
 - Ryan explicitly linked women's attention to confidence, self-esteem, self-worth, and mood.
 - Ryan spent repeated documented time with Nienke from July through December 2024.
 - WhatsApp volume with Nienke was extremely high in September and October and declined sharply afterward under both written-text and all-entry counts.
+- From September 3 through November 16, the WhatsApp export shows 72 active days out of 75 calendar days; the first major 72-hour-plus silence began after November 16 and lasted until November 28.
 - Ryan privately categorized Nienke as one of the women on his romantic radar.
 - Ryan described himself as "waiting in the wings" regarding Nienke/Maarten.
 - Ryan told friends about unusual physical closeness with Nienke.
@@ -502,6 +520,8 @@ The strongest fair statement is: Nienke's post-death behavior appeared emotional
 - Ryan discussed Beth, an online coffee date, a State College/PSU professor, a possible blind date, and a later "blindish" workplace-gym setup with Nienke.
 - On November 5, Nienke directly challenged Ryan's decision to skip dance because he was exhausted and not in the mood, then acknowledged the message could read as too directly Dutch.
 - Ryan left the Bachata team partly for self-care and cost, later saying he had not danced since leaving and was struggling to return consistently to the gym.
+- Nienke's November Southwest USA road trip was with Maarten and was connected to the Tempe/IRONMAN context.
+- On December 4, Ryan told Nienke after Thanksgiving that everyone was getting old and that the house was almost in disrepair.
 - The WhatsApp record supports a narrower late-October-through-holiday asymmetry: a November missed-goodbye episode, later travel or ride-oriented openings, and reduced continuity, while the Christmas and New Year exchanges were answered.
 - On January 10, Ryan appears to have deleted messages.
 - In January, Ryan stopped initiating with Nienke while she initiated contact.
@@ -531,6 +551,7 @@ The strongest fair statement is: Nienke's post-death behavior appeared emotional
 - Ryan repeatedly used psychological labels for other people but did not similarly pathologize Nienke.
 - Ryan had an older pattern of romantic absorption and partner-centered accommodation, including the Lauren and Cara relationships.
 - Ryan had earlier observable patterns of moodiness, self-focused distress narration, disengagement, and napping during group activity, remembered by Garrett and Heather through the "Eeyore" nickname and by John through the New Hampshire trip.
+- The family/home concern is supported both by later witness description and Ryan's own December 2024 WhatsApp comment that the house was almost in disrepair.
 - Ryan's 2022 Facebook relationship-update conflict supports a pattern of indirect romantic disclosure and counter-accusation rather than apology.
 - Ryan's caretaking/usefulness role with Nienke was substantial and partner-like in practice.
 - Nienke's attachment to Ryan cannot be reduced to transportation because she pursued contact after he stopped providing rides.
@@ -549,7 +570,9 @@ The strongest fair statement is: Nienke's post-death behavior appeared emotional
 - Ryan's high-effort September/October friendship with Nienke may have functioned partly as courtship-like friendship or romantic evaluation.
 - Ryan's later cooling toward Nienke may reflect both genuine depressive constriction and the natural drop in energy that can follow when a hoped-for romantic possibility does not materialize.
 - The decline in Nienke contact reflects both travel/lifestyle disruption and Ryan's depressive withdrawal.
+- The November 16-to-November 28 silence may have operated as a concentrated reality check because Nienke was traveling with Maarten: Ryan may have experienced her as living the partner/travel life with Maarten that he had hoped to occupy himself.
 - The late-October-through-holiday asymmetry may have contributed to Ryan feeling demoted, used, or less important, even if Nienke's later January behavior shows she still cared about him.
+- His father's prediabetes/chronic kidney disease news and Ryan's own house-disrepair comment may have added background family stress during the same period his mood and routines were declining.
 - Ryan's avoidance of Nienke specifically may indicate that she had become emotionally harder for him to face than lower-demand contacts such as Joe and Lucas. Possible reasons include shame, romantic disappointment, fear of accountability, or inability to manage the relationship conversation.
 - The January 26 rope purchase may mark the transition from depressive withdrawal into concrete suicide preparation.
 - The bowling payment, calculator math, and dinner plans suggest continued ordinary future planning, which may indicate ambivalence, compartmentalization, habit, or incomplete finality of intent. The specific meaning is unknown.
@@ -568,6 +591,7 @@ The strongest fair statement is: Nienke's post-death behavior appeared emotional
 - What Ryan and Briana discussed in verbal therapy sessions, including Nienke, suicide risk, medication adherence, and accountability.
 - Whether Ryan took Lexapro consistently, at what dose, when he started/stopped, and how it affected him.
 - Whether Ryan had a psychiatrist visit after October 27 and what was decided.
+- How Ryan internally experienced his father's health news and the family home's condition.
 - Ryan's exact intent at the moment of the rope purchase.
 - Whether Ryan's bowling payment, fee calculation, and dinner plans reflected genuine expectation of future participation, routine behavior, ambivalence, or concealment.
 - Why Ryan returned Olivia's Christmas present.
@@ -590,7 +614,7 @@ By 2023, there were already signs of a particular interpersonal style: Ryan was 
 
 At the same time, Ryan's own accounts were not always complete. The RAV4 story, the boxes, and later the Nienke/hotel retelling show a pattern in which Ryan could give different audiences different versions of reality. Sometimes the differences were omissions. Sometimes they preserved his self-image. Sometimes they emphasized the romantic or morally favorable version of events. This matters because much of the record consists of Ryan narrating other people to third parties. His narration is evidence, but it is not neutral evidence.
 
-The family/home context gives one possible backdrop. Ryan's house, as described, was a house of chronic unfinishedness: missing patio, dangerous door/drop, plywood floors, unfinished trim, and basic facilities left unresolved. That history should not be overused. It does not diagnose anyone and does not explain suicide. But it is relevant to a life pattern in which major unresolved situations could remain in place far longer than outsiders would expect.
+The family/home context gives one possible backdrop. Ryan's house, as described, was a house of chronic unfinishedness: missing patio, dangerous door/drop, plywood floors, unfinished trim, and basic facilities left unresolved. This was not only a retrospective witness framing. On December 4, 2024, Ryan himself told Nienke after Thanksgiving that everyone was getting old and that the house was almost in disrepair. That history should not be overused. It does not diagnose anyone and does not explain suicide. But it is relevant to a life pattern in which major unresolved situations could remain in place far longer than outsiders would expect.
 
 Spring 2024 then introduces clinical complexity. Ryan was not simply a socially awkward man who later became sad over a woman. He had mood swings, Lexapro involvement, psychiatrist contact, severe activation, and then a later elevated period discussed with Briana in possible hypomania language. Whether this reflected medication effect, underlying mood disorder, anxiety, depression, situational stress, or some combination is unknown. What is established is that Ryan and Briana recognized mood instability well before the final months.
 
@@ -610,11 +634,13 @@ The Maarten triangle deepened that contradiction. Ryan met Maarten, assessed him
 
 The marathon weekend likely mattered because it concentrated the ambiguity. Ryan drove Nienke to a major personal event while Maarten stayed behind. They had lodging logistics, time away, dancing by water, family introduction, birthday context, and Ryan wondering beforehand whether something might happen. Afterward there was "no canoodling," but there was also a deeply warm card saying Ryan made Pittsburgh 1000x better. Ryan sent the card to Mackenzie, which suggests he did not simply experience it as rejection. The likely result was not closure, but continued ambiguity: enough warmth to preserve attachment, not enough romantic movement to resolve it.
 
-Late October prevents a simple causal story. Ryan was still seeing Nienke after the marathon. They went to Kinzua on October 20 and Trace on October 26. Then on October 27 he told Briana about a broad depressive shift: down mood, sleep increase, less energy, difficulty with hobbies, exercise, and routines. Briana recognized seasonal depression. The next day Ryan told Olivia that his mood, motivation, and energy were sinking, that he might leave dance, that lifting was inconsistent, and that he was using a light box. This is the point where the case file must pivot from "what happened with Nienke?" to "what was happening to Ryan?"
+Late October prevents a simple causal story. Ryan was still seeing Nienke after the marathon. They went to Kinzua on October 20 and Trace on October 26. Family-health stress was also present: on October 9 Ryan told Nienke his father was apparently pre-diabetic, and on October 22 he said his father had been diagnosed with stage 3 chronic kidney disease. Then on October 27 he told Briana about a broad depressive shift: down mood, sleep increase, less energy, difficulty with hobbies, exercise, and routines. Briana recognized seasonal depression. The next day Ryan told Olivia that his mood, motivation, and energy were sinking, that he might leave dance, that lifting was inconsistent, and that he was using a light box. This is the point where the case file must pivot from "what happened with Nienke?" to "what was happening to Ryan?"
 
 The WhatsApp record also shows that the drift was relationally visible. On November 5, after Ryan said he was exhausted and not in the mood for dance, Nienke challenged the rationale directly and told him to "Make some mood," later acknowledging that her parents would view the message as too directly Dutch. On November 11, Ryan described leaving the Bachata team as mainly for self-care and cost. By December 8, he said he had not danced since leaving the team, lacked time and energy for dancing, and was struggling to get to the gym consistently. This was both a mental-health/routine problem and a friendship-continuity problem.
 
-Through November and December, Nienke's life expanded while Ryan's contracted. Her parents came, she went to NYC, then the Southwest, then Europe, then Hawaii. Ryan's communication declined sharply. But the January initiation data shows the decline was not simply her abandoning him. By January, she initiated all active conversation days and Ryan initiated none. He no longer served as the constant driver/helper, but she continued to pursue him. That is important because it complicates the painful but too-simple story that she used him for rides and discarded him.
+Through November and December, Nienke's life expanded while Ryan's contracted. Her parents came, she went to NYC, then on the Southwest road trip with Maarten, then Europe, then Hawaii. Ryan's communication declined sharply. But the January initiation data shows the decline was not simply her abandoning him. By January, she initiated all active conversation days and Ryan initiated none. He no longer served as the constant driver/helper, but she continued to pursue him. That is important because it complicates the painful but too-simple story that she used him for rides and discarded him.
+
+The first major silence after months of near-continuous WhatsApp contact began on November 16, after Nienke acknowledged that she and Ryan had not said goodbye before her trip with Maarten. The silence may have landed as a concentrated reality check: Maarten remained the travel/partner figure, while Ryan remained the high-effort friend in Pittsburgh.
 
 Still, the late-October-through-holiday WhatsApp pattern may have felt asymmetrical before January, but the full export narrows the claim. Nienke acknowledged a missed goodbye before travel, some later openings were travel or ride-oriented, and continuity was reduced. The Christmas and New Year messages were answered, with the New Year reply arriving the next afternoon. The careful formulation is not "exploitation proven," but "uneven continuity": the relationship could have mattered to both people while still becoming painful for Ryan because ordinary availability, acknowledgment, and practical support did not appear balanced.
 
