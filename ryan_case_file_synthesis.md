@@ -12,8 +12,6 @@ This is not a clinical diagnosis, legal conclusion, or finding of a single cause
 
 **Garrett** is Ryan's cousin and the person reconstructing the record from recovered messages, photographs, device artifacts, family accounts, and witness reports.
 
-**Heather** is Garrett's partner and an independent witness to some interactions involving Ryan and Garrett.
-
 **Briana** was Ryan's therapist during the period covered by the recovered messages.
 
 **Charlie** was Ryan's father. Ryan's mother is referenced where the record concerns parental support, the vehicle purchase, or post-death device access.
@@ -54,7 +52,7 @@ By spring 2024, Ryan was already in a clinically complicated period involving mo
 
 Ryan's tendency toward romantic absorption appears to predate the final year. In a relationship with Lauren around 2015, Ryan, who was essentially atheist or nonreligious, reportedly dated a strongly Christian and sexually conservative woman for years. They reportedly did not have intercourse, although Ryan said they did "everything but that." Ryan visited her at her parents' home on weekends, slept on the downstairs couch, and did not have Lauren sleeping over. He complained about her thinking as illogical for years but, when Garrett asked why he stayed, answered in substance: "Cuz I like her?" In the later Cara relationship, Ryan reportedly dropped much of his own friend network, spent time primarily with Cara's friends, and joined her family's summer vacations.
 
-There is also an older mood/self-focus pattern. Garrett and Heather affectionately called Ryan "Eeyore," especially around 2021, when he was remembered as moody and prone to "woe is me" speeches about relationships, erectile dysfunction, work, and other problems. During a New Hampshire cabin trip, John reportedly drove Ryan from Pittsburgh to New Hampshire because John did not want to fly and rent a car. John later said Ryan did not offer to take a driving shift, talked extensively about himself and his problems, and did not offer gas money. At the cabin, Ryan reportedly spent much of the time disengaged, taking naps, including falling asleep during a river float and initially declining to join group games.
+There is also an older mood/self-focus pattern. Garrett affectionately called Ryan "Eeyore," especially around 2021, when he was remembered as moody and prone to "woe is me" speeches about relationships, erectile dysfunction, work, and other problems. During a New Hampshire cabin trip, John reportedly drove Ryan from Pittsburgh to New Hampshire because John did not want to fly and rent a car. John later said Ryan did not offer to take a driving shift, talked extensively about himself and his problems, and did not offer gas money. At the cabin, Ryan reportedly spent much of the time disengaged, taking naps, including falling asleep during a river float and initially declining to join group games.
 
 During the 2023-2024 period, Ryan increasingly interpreted difficult interpersonal interactions through psychological categories: narcissism, borderline personality disorder, manipulation, control, toxicity, emotional unavailability, and similar labels. That tendency appears to predate Nienke. It appears in relation to Cara in 2023, Garrett in 2023, Sarah, Sasha, Savannah, Mallory, and possibly broader dating categories such as nurses or dancers. Nienke is the conspicuous exception. Despite being partnered, emotionally ambiguous, physically affectionate, and sometimes asking for significant practical help, she does not appear in the recovered record as someone Ryan pathologized. Instead, he describes her as sweet, special, affectionate, and possibly romantically interested.
 
@@ -88,13 +86,13 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 
 **Plausible inference:** This pattern helps contextualize Nienke. Ryan's later investment in Nienke was not only a one-off crush on an unavailable woman. It fits a broader tendency to reorganize his social world around a woman he liked, tolerate relational constraints, and remain attached even when the arrangement was frustrating or mismatched.
 
-**Established by witness report:** In 2021, Garrett and Heather affectionately referred to Ryan as "Eeyore" because he was remembered as moody and prone to "woe is me" rants or speeches about relationships, erectile dysfunction, his job, and other frustrations.
+**Established by witness report:** In 2021, Garrett affectionately referred to Ryan as "Eeyore" because he was remembered as moody and prone to "woe is me" rants or speeches about relationships, erectile dysfunction, his job, and other frustrations.
 
 **Established by witness report:** During a New Hampshire cabin trip, John drove Ryan from Pittsburgh to New Hampshire. John reportedly said Ryan did not offer to take a driving shift, talked extensively about himself and his problems, and did not offer gas money. At the cabin, Ryan reportedly spent substantial time disengaged or napping, including falling asleep during a river float and initially declining to join group games.
 
 **Corroborated observation:** This suggests that some elements visible in the final year--low mood, self-focused distress narration, disengagement, and napping during group activity--had earlier analogues. The New Hampshire material should not be retroactively treated as evidence of the 2024-2025 depressive episode, but it does show that Ryan's friends had seen earlier versions of him as moody, self-absorbed, or difficult to engage.
 
-**Established by witness report:** In 2022, Ryan's Facebook updated to show he was in a relationship, which was news to Garrett despite their closeness. Garrett objected that Ryan tended to share bad news with him but not good news. Ryan did not apologize and instead countered that Garrett had not told him about Heather, even though Garrett had met Heather in January 2021 and Ryan had gone on vacation with Garrett and Heather to Puerto Rico by May 2021.
+**Established by witness report:** In 2022, Ryan's Facebook updated to show he was in a relationship, which was news to Garrett despite their closeness. Garrett objected that Ryan tended to share bad news with him but not good news. Ryan did not apologize and instead attempted to counter argue.
 
 **Plausible inference:** The 2022 Facebook conflict supports two later themes: Ryan's tendency to let romantic developments reach close people indirectly or belatedly, and his tendency during conflict to answer a request for acknowledgment with a counter-accusation rather than repair.
 
@@ -102,7 +100,7 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 
 **Established/corroborated:** By early 2023, after Cara ended the relationship, Ryan reportedly told Garrett that his therapist believed Cara might have borderline personality disorder or similar pathology. Garrett challenged that framing at the time because it seemed convenient that Cara's mental-health framing emerged after she broke up with Ryan.
 
-**Corroborated observation:** By summer 2023, Ryan's language of manipulation and narcissism appeared to generalize beyond romantic relationships. Garrett and Heather independently noticed Ryan applying psychological labels to relatively ordinary conflict or joking interactions.
+**Corroborated observation:** By summer 2023, Ryan's language of manipulation and narcissism appeared to generalize beyond romantic relationships. Garrett independently noticed Ryan applying psychological labels to relatively ordinary conflict or joking interactions.
 
 **Plausible inference:** This suggests that Ryan's later 2024 pathologizing was not merely a reaction to one bad dating experience. It may have been an increasingly available interpretive framework: conflict was often understood through the other person's disorder, manipulation, or pathology.
 
@@ -122,7 +120,7 @@ The case file therefore supports a process, not a verdict: Ryan appears to have 
 
 ### December 2023: Vehicle, Boxes, and Self-Presentation
 
-**Established/corroborated:** Ryan's 4Runner-to-RAV4 transition produced inconsistent or incomplete accounts to different audiences. Joe and Lucas reportedly understood that Ryan was paying off the car. Heather was told Ryan would "have to check" the rate. Ryan's mother said she and Charlie bought it for him, and the record includes Charlie asking Ryan to bring the title home in December 2024, which is consistent with the vehicle being paid off.
+**Established/corroborated:** Ryan's 4Runner-to-RAV4 transition produced inconsistent or incomplete accounts to different audiences. Joe and Lucas reportedly understood that Ryan was paying off the car. Ryan suggested he took out a loan and would "have to check" the rate. Ryan's mother said she and Charlie bought it for him, and the record includes Charlie asking Ryan to bring the title home in December 2024, which is consistent with the vehicle being paid off.
 
 **Established by witness/recovered record:** Ryan later explained the dealership purchase by saying that when he went to the dealership that day, he had no intention of buying a car. Garrett's reconstruction is that this is not credible as a full explanation if Ryan arrived ready to trade in his car and with a new car in mind.
 
@@ -358,7 +356,7 @@ With Olivia, Ryan framed the marathon lodging as Nienke booking a hotel and aski
 
 With Nienke, Ryan described kissing and dating other women in unusual detail. That may have been ordinary friend talk, but in context it may also have functioned as a way of signaling desirability or testing for jealousy.
 
-With neighbors or friends, Ryan appears to have implied he was paying off the RAV4. With Heather, he suggested he would have to check the rate. With family, the record indicates his parents bought or substantially funded it and that the title was expected home. These versions preserve Ryan's image of independence more than they clarify the truth.
+With neighbors or friends, Ryan appears to have implied he was paying off the RAV4. With family, the record indicates his parents bought or substantially funded it and that the title was expected home. These versions preserve Ryan's image of independence more than they clarify the truth.
 
 With Briana, Ryan acknowledged Garrett had asked him to mail the boxes, yet he later framed the issue as no longer being Garrett's storage. This shows how an account can include a key fact but still organize the story around Ryan as the imposed-upon party.
 
@@ -442,7 +440,7 @@ Ryan was reportedly known to vanish when he got a new girlfriend. People might n
 
 The Lauren and Cara histories sharpen that pattern. With Lauren, Ryan appears to have accommodated a relationship structure shaped by her religion, sexuality, and family home, even while criticizing her thinking. With Cara, Ryan reportedly shifted heavily into Cara's social and family world, including her friends and family vacations. These examples suggest not merely withdrawal from friends, but a broader tendency toward relationship-centered social migration: Ryan's world could reorganize around the woman he was attached to.
 
-The 2022 Facebook relationship-update conflict is a smaller but useful example. Garrett learned Ryan was in a relationship through Facebook rather than directly from Ryan, despite their closeness. When Garrett objected that Ryan tended to share distress and bad news but not good news, Ryan reportedly countered with a comparison to Garrett's relationship with Heather rather than apologizing. This fits the later pattern of indirect disclosure, defensive counter-comparison, and limited repair language.
+The 2022 Facebook relationship-update conflict is a smaller but useful example. Garrett learned Ryan was in a relationship through Facebook rather than directly from Ryan, despite their closeness. When Garrett objected that Ryan tended to share distress and bad news but not good news, Ryan reportedly countered rather than apologizing. This fits the later pattern of indirect disclosure, defensive counter-comparison, and limited repair language.
 
 However, January-February 2025 looks different. The withdrawal was not organized around a new relationship. It was global: Olivia, Brad, Aaron, John, Charlie, Nienke, Joe, Lucas, and others were all trying to reach him, invite him out, or observe a decline in daily self-care. Ryan declined or minimized. That distinction is important. His familiar "new girlfriend disappearance" may show a baseline pattern of absorption, but the final withdrawal appears depressive and generalized.
 
@@ -555,7 +553,7 @@ The strongest fair statement is: Nienke's post-death behavior appeared emotional
 - Ryan presented different aspects of reality to different audiences.
 - Ryan repeatedly used psychological labels for other people but did not similarly pathologize Nienke.
 - Ryan had an older pattern of romantic absorption and partner-centered accommodation, including the Lauren and Cara relationships.
-- Ryan had earlier observable patterns of moodiness, self-focused distress narration, disengagement, and napping during group activity, remembered by Garrett and Heather through the "Eeyore" nickname and by John through the New Hampshire trip.
+- Ryan had earlier observable patterns of moodiness, self-focused distress narration, disengagement, and napping during group activity, remembered by Garrett through the "Eeyore" nickname and by John through the New Hampshire trip.
 - The family/home concern is supported both by later witness description and Ryan's own December 2024 WhatsApp comment that the house was almost in disrepair.
 - Ryan's 2022 Facebook relationship-update conflict supports a pattern of indirect romantic disclosure and counter-accusation rather than apology.
 - Ryan's caretaking/usefulness role with Nienke was substantial and partner-like in practice.
@@ -618,7 +616,7 @@ Ryan's final year appears to have been marked by a sharp contrast between outwar
 
 Around 2015, Ryan reportedly maintained a years-long relationship with Lauren despite a major religious/sexual mismatch: Ryan was essentially atheist or nonreligious, while Lauren was strongly Christian and sexually conservative. The relationship reportedly did not include intercourse, though Ryan described it as involving "everything but that." Ryan visited her at her parents' home on weekends, slept on the downstairs couch, and complained for years that her thinking was illogical. When Garrett asked why he stayed, Ryan's answer was simple: he liked her. Later, with Cara, Ryan reportedly shifted heavily into her social and family world, spending time with her friends and joining her family's summer vacations. These histories suggest that Ryan could allow his own social world, sexual preferences, or frustrations to become secondary to the structure of a relationship with a woman he wanted to remain close to.
 
-By 2023, there were already signs of a particular interpersonal style: Ryan was increasingly fluent in psychological explanations for other people's behavior. After Cara ended the relationship, he reportedly relayed that his therapist thought Cara might have borderline pathology. Later, Garrett and Heather noticed Ryan describing ordinary conflict through manipulation and narcissism. This did not begin with Nienke. By the time Sarah, Mallory, Sasha, and others entered the 2024 record, Ryan already had a framework for sorting people into psychologically suspect categories.
+By 2023, there were already signs of a particular interpersonal style: Ryan was increasingly fluent in psychological explanations for other people's behavior. After Cara ended the relationship, he reportedly relayed that his therapist thought Cara might have borderline pathology. Later, Garrett noticed Ryan describing ordinary conflict through manipulation and narcissism. This did not begin with Nienke. By the time Sarah, Mallory, Sasha, and others entered the 2024 record, Ryan already had a framework for sorting people into psychologically suspect categories.
 
 At the same time, Ryan's own accounts were not always complete. The RAV4 story, the boxes, and later the Nienke/hotel retelling show a pattern in which Ryan could give different audiences different versions of reality. Sometimes the differences were omissions. Sometimes they preserved his self-image. Sometimes they emphasized the romantic or morally favorable version of events. This matters because much of the record consists of Ryan narrating other people to third parties. His narration is evidence, but it is not neutral evidence.
 
